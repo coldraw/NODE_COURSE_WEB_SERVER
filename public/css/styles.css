@@ -53,3 +53,8 @@ button {
   color: white;
   padding: 8px;
 }
+
+#message-1 {
+  color: green;
+  font-size: 20px;
+}
